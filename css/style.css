@@ -1,0 +1,169 @@
+body{
+	background:#eee;
+	margin: 0 auto;
+}
+
+.form{
+	-moz-box-shadow: 6px 10px 5px 0px rgba(115,115,115,1);
+    -webkit-box-shadow: 6px 10px 5px 0px rgba(115,115,115,1);
+    background: transparent;
+    border-radius: 11px;
+    border: 1px solid #D2D2D2;
+    bottom: 0;
+    box-shadow: 6px 10px 5px 0px rgba(115,115,115,1);
+    height: 100px;
+    left: 0;
+    margin: auto;
+    overflow: hidden;
+    padding: 0px 45px 130px;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    width: 200px;
+}
+
+input#button {
+    background: #E5E5E5;
+    border-radius: 5px;
+    box-shadow: none;
+    color: #0E0E0E;
+    cursor: pointer;
+    font-size: 15px;
+    padding: 7px 7px;
+    position: relative;
+    top: 11px;
+}
+
+input#button:hover {
+    background: rgb(0, 174, 236);
+    border-radius: 5px;
+    box-shadow: none;
+}
+
+input[type="text"] {
+    padding: 7px;
+}
+
+input[type="password"] {
+    padding: 7px;
+}
+
+header {
+    background: rgba(0, 0, 0, 0.04);
+    
+}
+
+header img {
+    padding: 14px;
+}
+
+
+footer {
+    position: relative;
+    text-align: center;
+    top: 752px;
+}
+
+footer img {
+    position: relative;
+    top: -13px;
+}
+
+.sesion {
+    position: relative;
+    float: right;
+    padding: 0px 18px;
+}
+.sesion strong {
+    font-family: sans-serif;
+    font-size: 17px;
+    left: -35px;
+    position: relative;
+    text-transform: capitalize;
+    top: 22px;
+}
+
+.sesion span {
+    background: rgba(0, 0, 0, 0.54);
+    color: #fff;
+    font-size: 20px;
+    position: relative;
+    float: right;
+    padding: 19px 10px;
+    margin: 0px -18px;
+}
+
+.list_user{
+	-moz-box-shadow: 6px 10px 5px 0px rgba(115,115,115,1);
+	-webkit-box-shadow: 6px 10px 5px 0px rgba(115,115,115,1);
+	background: transparent;
+	border-radius: 11px;
+	border: 1px solid #D2D2D2;
+	bottom:0;
+	box-shadow: 6px 10px 5px 0px rgba(115,115,115,1);
+	height: 100px;
+	left:0;
+	margin: auto;
+	overflow: hidden;
+	padding: 0px 44px 118px;
+	position: absolute;
+	right:0;
+	text-align: center;
+	top:0;
+	width: 200px;
+}
+
+.link_registro{
+	background: #7A7A7A;
+    left: 8px;
+    margin: auto;
+    padding: 8px 106px 7px;
+    position: absolute;
+    right: 0;
+    top: 588px;
+    width: 79px;
+    color: #fff;
+    border-radius: 6px;
+}
+
+.link_registro:hover{
+	background: #B9B6B6;
+    color: #FFFFFF;
+    font-weight: 900;
+}
+
+/*estilos registro*/
+
+.form-registro{
+	-moz-box-shadow: 6px 10px 5px 0px rgba(115,115,115,1);
+    -webkit-box-shadow: 6px 10px 5px 0px rgba(115,115,115,1);
+    background: transparent;
+    border-radius: 11px;
+    border: 1px solid #D2D2D2;
+    bottom: 0;
+    box-shadow: 6px 10px 5px 0px rgba(115,115,115,1);
+    height: 100px;
+    left: 0;
+    margin: auto;
+    overflow: hidden;
+    padding: 0px 26px 259px;
+    position: absolute;
+    right: -4px;
+    text-align: left;
+    top: 0;
+    width: 185px;
+}
+
+.form-registro h1{
+	text-align: center;
+}
+
+.submit{
+	position: relative;
+	left: 51px;
+}
+
+input[type="email"] {
+    padding: 7px;
+}
